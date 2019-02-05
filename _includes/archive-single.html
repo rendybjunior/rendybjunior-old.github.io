@@ -29,7 +29,10 @@
       {% else %}
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h2>
+    </h2>    
+    {% if post.date %}
+      <p class="page__date"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%d %B %Y" }}</time></p>
+    {% endif %}
     {% if post.read_time %}
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
