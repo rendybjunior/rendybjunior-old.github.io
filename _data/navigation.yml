@@ -13,11 +13,11 @@ main:
 
 # Side bar
 docs:
-  - title: "Blog"
+  - text: "Blog"
     url: "/"
-  - title: "About"
-    text: "/about/"
-  - title: "Projects"
-    text: "/projects/"
-  - title: "Book Reviews"
-    text: "/book-reviews/"
+  - text: "About"
+    url: "/about/"
+  - text: "Projects"
+    url: "/projects/"
+  - text: "Book Reviews"
+    url: "/book-reviews/"
