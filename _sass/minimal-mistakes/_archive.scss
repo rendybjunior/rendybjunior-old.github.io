@@ -40,7 +40,10 @@
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
-  text-decoration: none;
+
+  a {
+    text-decoration: none;
+  }
 
   a::before {
     content: '';
