@@ -110,6 +110,7 @@ author:
   avatar           : "/assets/images/biophoto.png"
   bio              : "Crazy dad. Data tech enthusiast."
   location         : "Jakarta, ID"
+  home             : "/"
   email            :
   links:
     - label: "Twitter"
