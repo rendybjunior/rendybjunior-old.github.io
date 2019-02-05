@@ -119,17 +119,6 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rendybjunior"
 
-# Side bar
-sidebar:
-  - title: "Blog"
-    url: "/"
-  - title: "About"
-    text: "/about/"
-  - title: "Projects"
-    text: "/projects/"
-  - title: "Book Reviews"
-    text: "/book-reviews/"
-
 # Site Footer
 footer:
   links:
@@ -280,3 +269,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: "docs"
