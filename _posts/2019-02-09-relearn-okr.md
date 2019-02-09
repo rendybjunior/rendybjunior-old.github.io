@@ -6,15 +6,15 @@ tags: team, okr
 
 Once upon a time, my manager introduced me a tool to help me manage the team. I was so green, this was the first time I manage a team so any tool will likely help me. The tool is called OKR, stands for Objective and Key Result. There was not really much introduction done, so I did my homework trying to understand what this is about.
 
-I found one article that helps me to understand OKR. I read it. I said to myself "This is no brainer, I'll just do it, it's super simple...". Then I drafted my first OKR. Months passed. I felt very few benefit I get from OKR, it's just like simple goal and target setting, with a necessary buzzword to make it viral. Then I went back to simple goal setting with usual SMART framework (Specific, Measurable, Attainable, Realistic, Time Bound).
+I found one article that helps me to understand OKR. I read it. I said to myself "This is no brainer, I'll just do it, it's super simple...". Then we drafted my first OKR. Months passed. We felt very few benefit we get from OKR, it's just like simple goal and target setting, with a necessary buzzword to make it viral. Then we went back to simple goal setting with usual SMART framework (Specific, Measurable, Attainable, Realistic, Time Bound).
 
-Recently I re-learn OKR, reading a book titled ["Measure What Matters" by John Doerr](https://www.goodreads.com/book/show/39286958-measure-what-matters), and turns out I implemented it wrong... So wrong...
+Recently I re-learn OKR, reading a book titled ["Measure What Matters" by John Doerr](https://www.goodreads.com/book/show/39286958-measure-what-matters), and turns out I implemented it wrong...
 
 Here is what I learned.
 
 ### Focus, drop things to let you focus
 
-The first time I adopted OKR, I put so many things on my plate, everything problems in the world that the team should solve. We have no courage to pick few but important goals that align to company-wide focus. It is recommended to have 3-5 objectives and 3-5 key results for each objective. No more than that.
+The first time we adopted OKR, we put so many things on the team plate, every problem in the world that the team should solve. We have no courage to pick few but important goals that align to company-wide focus. It is recommended to have 3-5 objectives and 3-5 key results for each objective. No more than that.
 
 ### Transparency means we have to read, a lot
 
@@ -35,4 +35,4 @@ Stretch goals might demoralize the team if it is seen as something not realistic
 OKR, or maybe any tool or framework, requires time to implement. It is not easy to master the process. It takes patient, mindfulness. Regular retro on OKR adoption will help to understand we could improve things, or even modify if we need to.
 
 
-I am now accompanied with more knowledge to implement OKR better. I don't know yet whether it will be beneficial for the team, but I know that the last time I use it, I use it wrong. I will post more findings as the time goes by.
+I am now accompanied with more knowledge to implement OKR better. I don't know yet whether it will be beneficial for the team. But I am sure that the last time I use it, I use it wrong. I will post more findings as we experiment more!
