@@ -12,6 +12,8 @@ Recently I re-learn OKR, reading a book titled ["Measure What Matters" by John D
 
 Here is what I learned.
 
+!["Measure What Matters" by John Doerr](/assets/images/okr-book.JPG)
+
 ### Focus, drop things to let you focus
 
 The first time we adopted OKR, we put so many things on the team plate, every problem in the world that the team should solve. We have no courage to pick few but important goals that align to company-wide focus. It is recommended to have 3-5 objectives and 3-5 key results for each objective. No more than that.
