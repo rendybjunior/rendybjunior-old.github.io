@@ -12,7 +12,10 @@ Recently I re-learn OKR, reading a book titled ["Measure What Matters" by John D
 
 Here is what I learned.
 
-!["Measure What Matters" by John Doerr](/assets/images/okr-book.JPG)
+<figure>
+	<img src="/assets/images/okr-book.JPG">
+  <figcaption>"Measure What Matters" by John Doerr</figcaption>
+</figure>
 
 ### Focus, drop things to let you focus
 
