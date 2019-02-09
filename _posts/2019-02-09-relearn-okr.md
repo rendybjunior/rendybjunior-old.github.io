@@ -8,7 +8,7 @@ Once upon a time, my manager introduced me a tool to help me manage the team. I 
 
 I found one article that helps me to understand OKR. I read it. I said to myself "This is no brainer, I'll just do it, it's super simple...". Then we drafted our first OKR. Months passed. We felt very few benefit we get from OKR, it's just like simple goal and target setting, with a necessary buzzword to make it viral. Then we went back to simple goal setting with usual SMART framework (Specific, Measurable, Attainable, Realistic, Time Bound).
 
-Recently I re-learn OKR, reading a book titled ["Measure What Matters" by John Doerr](https://www.goodreads.com/book/show/39286958-measure-what-matters), and turns out I implemented it wrong...
+Recently I re-learned OKR, reading a book titled ["Measure What Matters" by John Doerr](https://www.goodreads.com/book/show/39286958-measure-what-matters), and turns out I implemented it wrong...
 
 Here is what I learned.
 
@@ -40,4 +40,4 @@ Stretch goals might demoralize the team if it is seen as something not realistic
 OKR, or maybe any tool or framework, requires time to implement. It is not easy to master the process. It takes patient, mindfulness. Regular retro on OKR adoption will help to understand we could improve things, or even modify if we need to.
 
 
-I am now accompanied with more knowledge to implement OKR better. I don't know yet whether it will be beneficial for the team. But I am sure that the last time I use it, I use it wrong. I will post more findings as we experiment more!
+I am now accompanied with more knowledge to implement OKR better. I don't know yet whether it will be beneficial for the team. But I am sure that the last time I used it, I used it wrong. I will post more findings as we experiment more!
