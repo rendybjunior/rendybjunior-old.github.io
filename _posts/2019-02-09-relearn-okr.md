@@ -8,7 +8,7 @@ Once upon a time, my manager introduced me a tool to help me manage the team. I 
 
 I found one article that helps me to understand OKR. I read it. I said to myself "This is no brainer, I'll just do it, it's super simple...". Then I drafted my first OKR. Months passed. I felt very few benefit I get from OKR, it's just like simple goal and target setting, with a necessary buzzword to make it viral. Then I went back to simple goal setting with usual SMART framework (Specific, Measurable, Attainable, Realistic, Time Bound).
 
-Recently I re-learn OKR, reading a book titled "Measure What Matters" by John Doerr, and turns out I implemented it wrong... So wrong...
+Recently I re-learn OKR, reading a book titled ["Measure What Matters" by John Doerr](https://www.goodreads.com/book/show/39286958-measure-what-matters), and turns out I implemented it wrong... So wrong...
 
 Here is what I learned.
 
