@@ -1,7 +1,7 @@
 ---
 title: Re-learn OKR
 date: 2019-02-09
-tags: team, okr
+tags: [team, okr]
 ---
 
 Once upon a time, my manager introduced me a tool to help me manage the team. I was so green, this was the first time I manage a team so any tool will likely help me. The tool is called OKR, stands for Objective and Key Result. There was not really much introduction done, so I did my homework trying to understand what this is about.
